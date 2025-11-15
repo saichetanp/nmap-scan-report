@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Fri Nov 14 15:23:10 2025 as: nmap -p- -sS -Pn -oN nmap_full.txt 192.168.38.128
+Nmap scan report for 192.168.38.128
+Host is up (0.0011s latency).
+Not shown: 65533 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+3000/tcp open  ppp
+MAC Address: 00:0C:29:F0:3B:F6 (VMware)
+
+# Nmap done at Fri Nov 14 15:23:25 2025 -- 1 IP address (1 host up) scanned in 14.88 seconds

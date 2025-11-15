@@ -1,0 +1,11 @@
+/api                 [31m (Status: 500)[0m [Size: 3017]
+/api.html            [31m (Status: 500)[0m [Size: 3027]
+/api.js              [31m (Status: 500)[0m [Size: 3023]
+/api.php             [31m (Status: 500)[0m [Size: 3025]
+/api.txt             [31m (Status: 500)[0m [Size: 3025]
+/apis                [31m (Status: 500)[0m [Size: 3019]
+/apis.txt            [31m (Status: 500)[0m [Size: 3027]
+/apis.html           [31m (Status: 500)[0m [Size: 3029]
+/apis.js             [31m (Status: 500)[0m [Size: 3025]
+/apis.php            [31m (Status: 500)[0m [Size: 3027]
+/assets              [36m (Status: 301)[0m [Size: 156][34m [--> /assets/][0m
